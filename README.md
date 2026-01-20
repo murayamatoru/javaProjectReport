@@ -1,2 +1,3 @@
 # javaProjectReport
 JavaProjectReport
+Javaプロジェクト内のJavaファイル、JSPファイルなどの情報をレポートする
